@@ -59,5 +59,6 @@ elif user == 3 and bot == 2:
 elif user == 3 and bot == 1:
     print(f"You choose: {choice3}\nBot choose: {choice1}")
     print("Bot wins")
-
+else :
+     print("Please choose the valid option !!")
 print("play again :)")
